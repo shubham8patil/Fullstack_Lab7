@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "CityCare General Hospital",
+    "city": "Pune",
+    "departments": ["Cardiology", "Orthopedics", "Emergency"],
+    "avgConsultationPrice": 800,
+    "rating": 4.2,
+    "acceptsAppointments": true,
+    "image": "hospital1.jpg",
+    "description": "Multi-specialty hospital with 150 beds and 24/7 emergency services."
+  },
+  {
+    "id": 2,
+    "name": "Green Valley Clinic",
+    "city": "delhi",
+    "departments": ["General Medicine", "Pediatrics"],
+    "avgConsultationPrice": 500,
+    "rating": 4.0,
+    "acceptsAppointments": false,
+    "image": "hospital2.jpg",
+    "description": "Small clinic focusing on outpatient care and family medicine."
+  },
+  {
+    "id": 3,
+    "name": "Lotus Women & Children Hospital",
+    "city": "Pune",
+    "departments": ["Gynecology", "Neonatology"],
+    "avgConsultationPrice": 1200,
+    "rating": 4.6,
+    "acceptsAppointments": true,
+    "image": "hospital3.jpg",
+    "description": "Specialized hospital for women and newborn care."
+  }
+]
